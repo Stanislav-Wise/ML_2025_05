@@ -40,3 +40,5 @@ git checkout c43e592
 git branch
 
 git checkout main
+
+Новое изменение в ветке new2
