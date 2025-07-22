@@ -35,3 +35,8 @@ git log
 
 git add ./
 
+git checkout c43e592
+
+git branch
+
+git checkout main
