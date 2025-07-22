@@ -42,3 +42,4 @@ git branch
 git checkout main
 
 Изменнения в ветке main
+
