@@ -1,0 +1,25 @@
+ 2002  ls
+ 2003  ls -a
+ 2004  ls -al
+ 2005  cd ./.venv/
+ 2006  ls
+ 2007  cd ./bin
+ 2008  pwd
+ 2009  cd ..
+ 2010  cd ~
+ 2011  cd -
+ 2012  cd /
+ 2013  cd -
+ 2014  mkdir new_project
+ 2015  ls
+ 2016  mkdir ./new_project/123
+ 2017  touch file.txt
+ 2018  touch ./new/file.txt
+ 2019  touch ./new_project/file.txt
+ 2020  rm ./new_project/123
+ 2021  rm -rf ./new_project/123
+ 2022  rm ./new_project/file.txt
+ 2023  cat file.txt
+ 2024  nano file.txt
+ 2025  clear
+ 2026  history
