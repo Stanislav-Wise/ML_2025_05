@@ -41,5 +41,8 @@ git branch
 
 git checkout main
 
+
 Изменнения в ветке main
+
+Новое изменение в ветке new2
 
